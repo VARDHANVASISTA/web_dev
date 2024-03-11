@@ -12,27 +12,38 @@
 
 body {
   background-color: #393E46;
+  border: #4ECCA3 solid 5px;
 }
-button{
-  margin: 20px;
-  font-family: 'Lobster', cursive;
-  border-color: #4ECCA3;
-  font-size: 2rem;
-  background-color: #393E46;
-  color: #4ECCA3;
-}
+
 h1 {
   margin: 30px;
   font-family: 'Lobster', cursive;
   text-shadow: 5px 0 #232931;
   font-size: 8rem;
   color: #4ECCA3;
+  border: #4ECCA3 solid 2px;
+}
+hr{
+   border: #4ECCA3 solid 2px;
 }
 h4{
-  margin: 30px;
+  margin: 25px;
   font-family: 'Lobster', cursive;
   text-shadow: 5px 0 #232931;
   font-size: 4rem;
+  color: #4ECCA3;
+  border: #4ECCA3 solid 2px;
+  border-radius: 15cm;
+}
+button{
+  margin: 20px;
+  font-family: 'Lobster', cursive;
+  border-style: groove;
+  border-color: #4ECCA3;
+  border: #4ECCA3 solid 2px;
+  border-radius: 5cm;
+  font-size: 2rem;
+  background-color: #393E46;
   color: #4ECCA3;
 }
 
